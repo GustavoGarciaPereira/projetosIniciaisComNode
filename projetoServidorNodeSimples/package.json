@@ -1,0 +1,18 @@
+{
+  "name": "servideor_node",
+  "version": "1.0.0",
+  "description": "Servidor Node Basico Para estudo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GustavoGarciaPereira?tab=repositories"
+  },
+  "author": "Gustavo Garcia Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

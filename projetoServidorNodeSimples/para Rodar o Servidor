@@ -1,0 +1,16 @@
+1° -> Baixe o nodeJS
+2° -> Abra o terminal na pasta do projeto
+3° -> rode o comando passando o nome do app principal
+comando->     node app.js 
+
+4° -> na sua linha de comando vai aparecer a mensagem
+executando na porta 3000
+
+->isso é um sinal de que o processo ocorreu com eficiência
+
+
+
+5° -> va no seu navegador e digira
+localhost:3000
+
+
