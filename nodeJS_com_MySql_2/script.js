@@ -56,3 +56,4 @@ app.listen(1337);
 
 
 console.log("Tudo ok!!");
+console.log("Escutando na posta "+1337);
